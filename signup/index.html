@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>JWOC  REGISTRATION</title>
+    <link rel='stylesheet' href='https://unpkg.com/ionicons@4.5.10-0/dist/css/ionicons.min.css'>
+    <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Montserrat:500,700&amp;display=swap'>
+    <link rel="stylesheet" href="style/style.css">
+</head>
+
+<body>
+    <!-- partial:index.partial.html -->
+    <div class="segment">
+        <button class="" type="button" id="mentee-btn">Become a Mentee</button>
+        <button class="" type="button" id="mentor-btn">Be a Mentor</button>
+    </div>
+    <form id="mentee-reg">
+        <div class="segment">
+            <h1>Mentees Registration</h1>
+        </div>
+        <label>
+            <input type="text" placeholder="Full Name" />
+        </label>
+        <label>
+            <input type="email" placeholder="Emain" />
+        </label>
+        <!-- <label>
+            <input type="text" placeholder="College/School name" />
+        </label> -->
+        <button class="red" type="button">Register as Mentee</button>
+        <div class="segment">
+            <button class="unit" type="button"><i class="icon ion-md-arrow-back"></i></button>
+            <button class="unit" type="button"><i class="icon ion-md-bookmark"></i></button>
+            <button class="unit" type="button"><i class="icon ion-md-settings"></i></button>
+        </div>
+        <div class="input-group">
+            <label>
+                <input type="text" placeholder="Email Address" />
+            </label>
+            <button class="unit" type="button"><i class="icon ion-md-search"></i></button>
+        </div>
+    </form>
+
+    <form id="mentor-reg" aria-disabled="true">
+        <div class="segment">
+            <h1>Mentors Registration</h1>
+        </div>
+        <label>
+            <input type="text" placeholder="Full Name" />
+        </label>
+        <label>
+            <input type="email" placeholder="Emain" />
+        </label>
+        <label>
+            <input type="text" placeholder="Github Profile Url" />
+        </label>
+        <button class="red" type="button">Register as Mentor</button>
+        <div class="segment">
+            <button class="unit" type="button"><i class="icon ion-md-arrow-back"></i></button>
+            <button class="unit" type="button"><i class="icon ion-md-bookmark"></i></button>
+            <button class="unit" type="button"><i class="icon ion-md-settings"></i></button>
+        </div>
+        <div class="input-group">
+            <label>
+                <input type="text" placeholder="Email Address" />
+            </label>
+            <button class="unit" type="button"><i class="icon ion-md-search"></i></button>
+        </div>
+    </form>
+    <!-- partial -->
+</body>
+
+<script>
+    let mentee = document.getElementById("mentee-btn")
+    let mentor = document.getElementById("mentor-btn")
+
+    document.getElementById("mentor-reg").style.display = 'none'
+
+    mentor.addEventListener('click',function(params) {
+        console.log("mentr")
+        document.getElementById("mentee-reg").style.display = 'none'
+        document.getElementById("mentor-reg").style.display = 'block'
+    })
+    
+    mentee.addEventListener('click',function(params) {
+        console.log("mentr")
+        document.getElementById("mentee-reg").style.display = 'block'
+        document.getElementById("mentor-reg").style.display = 'none'
+    })
+</script>
+
+</html>

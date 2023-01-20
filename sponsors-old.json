@@ -1,0 +1,61 @@
+{
+    "levels":{
+        "1":{
+            "img":"assets/images/spon/diamond.png",
+            "name":"Diamond Sponsor"
+        },
+        "2":{
+            "img":"assets/images/spon/gold.png",
+            "name":"Gold Sponsor"
+        },
+        "3":{
+            "img":"assets/images/spon/silver.png",
+            "name":"Silver Sponsor"
+        },
+        "4":{
+            "img":"assets/images/spon/community.png",
+            "name":"Community Partner"
+        },
+        "5":{
+            "img":"assets/images/spon/certificate.png",
+            "name":"Certificate Partner"
+        },
+        "6":{
+            "img":"assets/images/spon/learning.png",
+            "name":"Learning Partner"
+        }
+    },
+    "sponsors":[
+        {
+            "name":"topcoder",
+            "logo":"assets/images/sponsors/topcoder.png",
+            "url":"https://www.topcoder.com",
+            "type":1
+        },
+        {
+            "name":"jetbrains",
+            "logo":"assets/images/sponsors/jetbrains.svg",
+            "url":"https://www.topcoder.com",
+            "type":2
+        },
+        {
+            "name":"prepbytes",
+            "logo":"assets/images/sponsors/prepbytes.svg",
+            "url":"https://www.topcoder.com",
+            "type":3
+        },
+        {
+            "name":"rebootmarketingr",
+            "logo":"assets/images/sponsors/rebootmarketing.png",
+            "url":"https://www.topcoder.com",
+            "type":4
+        },
+        {
+            "name":"sashido",
+            "logo":"assets/images/sponsors/sashido.png",
+            "url":"https://www.topcoder.com",
+            "type":5
+        }
+    ]
+}
+

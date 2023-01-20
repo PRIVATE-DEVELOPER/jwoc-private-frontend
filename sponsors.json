@@ -1,0 +1,192 @@
+{
+    "levels":{
+        "1":{
+            "img":"assets/images/spon/diamond.png",
+            "name":"Diamond Sponsor"
+        },
+        "2":{
+            "img":"assets/images/spon/gold.png",
+            "name":"Gold Sponsor"
+        },
+        "3":{
+            "img":"assets/images/spon/silver.png",
+            "name":"Silver Sponsor"
+        },
+        "4":{
+            "img":"assets/images/spon/community.png",
+            "name":"Community Partner"
+        },
+        "5":{
+            "img":"assets/images/spon/certificate.png",
+            "name":"Certificate Partner"
+        },
+        "6":{
+            "img":"assets/images/spon/learning.png",
+            "name":"Media Partner"
+        }
+    },
+    "sponsors":[
+        {
+            "name":"topcoder",
+            "logo":"assets/images/sponsors/topcoder.png",
+            "url":"https://www.topcoder.com",
+            "type":1
+        },
+        {
+            "name":"jetbrains",
+            "logo":"assets/images/sponsors/jetbrains.svg",
+            "url":"https://www.jetbrains.com",
+            "type":2
+        },
+        {
+            "name":"prepbytes",
+            "logo":"assets/images/sponsors/prepbytes.svg",
+            "url":"https://www.prepbytes.com/",
+            "type":3
+        },
+        {
+            "name":"rebootmarketingr",
+            "logo":"assets/images/sponsors/rebootmarketing.png",
+            "url":"https://rebootmarketing.in/",
+            "type":4
+        },
+        {
+            "name":"sashido",
+            "logo":"assets/images/sponsors/sashido.png",
+            "url":"https://www.sashido.io/en/",
+            "type":5
+        },
+        {
+            "name":"Axure",
+            "logo":"assets/images/sponsors/axure.svg",
+            "url":"https://portal.axure.com",
+            "type":3
+        },
+        {
+            "name":"Give my certificate",
+            "logo":"assets/images/sponsors/givemycertificate.png",
+            "url":"https://givemycertificate.com",
+            "type":5
+        },
+        {
+            "name":"Codechef",
+            "logo":"assets/images/sponsors/codechef.png",
+            "url":"https://codechef.com",
+            "type":2
+        },
+        {
+            "name":"Github",
+            "logo":"assets/images/sponsors/github.png",
+            "url":"https://github.com",
+            "type":1
+        },
+        {
+            "name":"Postman",
+            "logo":"assets/images/sponsors/postman.png",
+            "url":"https://postman.com",
+            "type":3
+        },
+        {
+            "name":"InterviewBuddy",
+            "logo":"assets/images/sponsors/interviewbuddy.png",
+            "url":"https://interviewbuddy.in",
+            "type":2
+        },
+        {
+            "name":"Commudle",
+            "logo":"assets/images/sponsors/commudle.png",
+            "url":"https://commudle.com",
+            "type":4
+        },
+        {
+            "name":"Greg Oprendek",
+            "logo":"assets/images/sponsors/gregoprendek.png",
+            "url":"https://gen.xyz",
+            "type":3
+        },
+        {
+            "name":"Noticebard",
+            "logo":"assets/images/sponsors/noticebard.png",
+            "url": "https://www.noticebard.com/",
+            "type":6
+        },
+        {
+            "name":"GDSC SIT",
+            "logo":"assets/images/sponsors/.png",
+            "url": "https://gdsc.community.dev/siliguri-institute-of-technology-darjeeling/",
+            "type":4
+        },
+        {
+            "name":"GDSC CGEC",
+            "logo":"assets/images/sponsors/.png",
+            "url": "https://gdsc.community.dev/cooch-behar-government-engineering-college-cooch-behar/",
+            "type":4
+        },
+        {
+            "name":"GDSC IET Lucknow",
+            "logo":"assets/images/sponsors/.png",
+            "url": "https://gdsc.community.dev/institute-of-engineering-technology-lucknow/",
+            "type":4
+        },
+        {
+            "name":"GDSC KGEC",
+            "logo":"assets/images/sponsors/.png",
+            "url": "https://gdsc.community.dev/kalyani-government-engineering-college-kalyani/",
+            "type":4
+        },
+        {
+            "name":"GDSC RKMGEC",
+            "logo":"assets/images/sponsors/.png",
+            "url": "https://gdsc.community.dev/ramkrishna-mahato-government-engineering-college-purulia/",
+            "type":4
+        },
+        {
+            "name":"GDSC UEM",
+            "logo":"assets/images/sponsors/.png",
+            "url": "https://gdsc.community.dev/university-of-engineering-management-kolkata/",
+            "type":4
+        },
+        {
+            "name":"IEI Students Chapter AOT",
+            "logo":"assets/images/sponsors/.png",
+            "url": "https://gdsc.community.dev/siliguri-institute-of-technology-darjeeling/",
+            "type":4
+        },
+        {
+            "name":"Clueless",
+            "logo":"assets/images/sponsors/.png",
+            "url": "http://www.clueless.tech",
+            "type":4
+        },
+        {
+            "name":"PY'PRO",
+            "logo":"assets/images/sponsors/.png",
+            "url": "https://www.linkedin.com/company/hackclub-sal/",
+            "type":4
+        },
+        {
+            "name":"Brainseed Networks",
+            "logo":"assets/images/sponsors/.png",
+            "url": "https://brainseednetworks.tech/",
+            "type":4
+        },
+        {
+            "name":"HackForCode",
+            "logo":"assets/images/sponsors/.png",
+            "url": "https://www.linkedin.com/company/hackforcode/",
+            "type":4
+        },
+        {
+            "name":"CodeChamp",
+            "logo":"assets/images/sponsors/.png",
+            "url": "https://codechamp.tech",
+            "type":4
+        },
+        {
+            "name":"AlgoZenith HIT",
+            "logo":"assets/images/sponsors/.png",
+            "url": "https://www.instagram.com/algozenith/",
+            "type":4
+        }
+    ]
+}
