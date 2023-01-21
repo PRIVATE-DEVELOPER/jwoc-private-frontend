@@ -14723,3 +14723,17 @@ body.white-version {
 .ull li:nth-child(5) a:hover .fab {
   color: #e4405f;
 }
+
+.sponsors-based{
+  display: flex;
+  margin-top: 50px;
+  margin-bottom: 20px;
+  align-items: center;
+}
+
+.sponsors-based>img{
+  height: 80px;
+}
+.sponsors-based>h3{
+  color: #2f33359c;
+}
